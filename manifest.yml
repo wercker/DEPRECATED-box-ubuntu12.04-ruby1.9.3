@@ -19,3 +19,4 @@ script : |
   cd $HOME
   rm -fr rubyinstall
   echo "gem: --no-rdoc --no-ri" >> $HOME/.gemrc
+  sudo gem install bundler
