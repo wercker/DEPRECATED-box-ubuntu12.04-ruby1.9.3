@@ -1,5 +1,5 @@
 name : ubuntu12.04-ruby1.9.3
-version : 0.0.1
+version : 0.0.2
 inherits : wercker/ubuntu12.04-webessentials
 script : |
   export RUBYVERSION=1.9.3-p429
