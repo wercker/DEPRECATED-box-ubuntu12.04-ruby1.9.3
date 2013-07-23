@@ -4,8 +4,7 @@ ubuntu12.04-ruby1.9.3
 
 # What's new
 
-- Add license
-- Update readme
+- Bump version
 
 # License
 
@@ -31,6 +30,10 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
+
+## 0.0.7
+
+- Bump version
 
 ## 0.0.6
 
