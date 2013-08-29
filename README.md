@@ -4,7 +4,7 @@ ubuntu12.04-ruby1.9.3
 
 # What's new
 
-- Bump version
+- `RAILS_ENV` and `RACK_ENV` are now exported with `test`.
 
 # License
 
@@ -31,9 +31,13 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.8
+
+- `RAILS_ENV` and `RACK_ENV` are now exported with `test`.
+
 ## 0.0.7
 
-- Bump version
+- Re-publish in wercker directory
 
 ## 0.0.6
 
