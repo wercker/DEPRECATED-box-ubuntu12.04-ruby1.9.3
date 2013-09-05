@@ -11,7 +11,7 @@ packages :
 script : |
   export RUBYVERSION=1.9.3-p429
   sudo apt-get update
-  sudo apt-get install git zlib1g-dev libreadline-dev
+  sudo apt-get install git zlib1g-dev libreadline-dev libqtwebkit-dev
   sudo apt-get remove ruby1.9.1
   cd $HOME
   mkdir rubyinstall
