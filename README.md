@@ -1,6 +1,6 @@
 # ubuntu12.04-ruby1.9.3 box
 
-ubuntu12.04-ruby1.9.3
+An ubuntu box containing Ruby 1.9.3-p484.
 
 # What's new
 
