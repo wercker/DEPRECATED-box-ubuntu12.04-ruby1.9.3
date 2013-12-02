@@ -5,9 +5,9 @@ type : main
 platform: ubuntu@12.04
 keywords:
   - ruby
-packages :
-  - ruby@1.9.3
-script : |
+packages:
+  - ruby@1.9.3-p484
+script: |
   export RUBYVERSION=1.9.3-p484
   sudo apt-get update
   sudo apt-get install git zlib1g-dev libreadline-dev libqtwebkit-dev
