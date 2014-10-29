@@ -1,16 +1,24 @@
 # ubuntu12.04-ruby1.9.3 box
 
-An ubuntu box containing Ruby 1.9.3-p484.
+An ubuntu box containing Ruby 1.9.3-p550.
 
 # What's new
 
-- Update Ruby version to 1.9.3-p484
+- Update to `ruby-1.9.3-p550`
+- Update inherited box to `wercker/ubuntu12.04-webessentials@1.0.4`
+- Update `bundler` to `1.5`
 
 # License
 
 The MIT License (MIT)
 
 # Changelog
+
+## 2.0.0
+
+- Update to `ruby-1.9.3-p550`
+- Update inherited box to `wercker/ubuntu12.04-webessentials@1.0.4`
+- Update `bundler` to `1.5`
 
 ## 1.0.0
 
